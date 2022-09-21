@@ -7,3 +7,5 @@ But Forbes do not provide historical data about the billionaires and their posit
 This is a web scraping project which also dwelves into Exploratory Data Analysis and Machine Learning algorithms.
 
 There are two different datasets first is 'forbes billionaire list' which is obtained from wayback machine by web scraping the forbes's website's yearly snapshots. The second dataset is 'countries with billionaires' which is built upon the first dataset and grouped by countries and the number of billionaires it has.
+
+the 'ipynb' file is named as forbes_billionaires_list_web_scraping_EDA_ML.ipynb
